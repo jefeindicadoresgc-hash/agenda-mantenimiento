@@ -205,5 +205,3 @@ with col_tabla:
                 st.error("⛔ Contraseña incorrecta. No tienes autorización para realizar modificaciones.")
     else:
         st.info("📌 No hay ningún trabajo programado actualmente. ¡La agenda está totalmente libre!")
-    else:
-        st.info("📌 No hay ningún trabajo programado actualmente. ¡La agenda está totalmente libre!")
